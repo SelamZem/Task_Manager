@@ -1,4 +1,4 @@
-### Task Manager
+#### Task Manager
 ## Description
 Task Manager is a command-line application built in C# that helps you manage your tasks. You can add, update, delete, and list tasks, as well as change their status to "To Do", "In Progress", or "Done". The tasks are saved to a JSON file for persistence, allowing you to keep track of your progress even after closing the application.
 
