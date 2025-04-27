@@ -16,7 +16,7 @@ List tasks: View all tasks or filter them by status (To Do, In Progress, Done).
 
 ### Installation
 Clone the repository or download the project files to your local machine.
-git clone [ https://github.com/SelamZem/TaskManage].git
+git clone https://github.com/SelamZem/TaskManage.git
 
 
 ### CLI Commands:
